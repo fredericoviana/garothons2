@@ -22,3 +22,10 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+- integrar chat com api
+- criar tela de login
+- integrar login com chatgpt
+- criar mecanismo de log
+- 
