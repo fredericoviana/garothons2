@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">GPTONS</string>
+    <string name="title_activity_main">GPTONS</string>
+    <string name="package_name">br.org.ons.gptons</string>
+    <string name="custom_url_scheme">br.org.ons.gptons</string>
+</resources>
